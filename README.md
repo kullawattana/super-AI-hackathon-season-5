@@ -1,4 +1,4 @@
-# Super AI Hackathon Season 5 Notebooks
+# Super AI Hackathon Season 5
 
 This repository contains exploratory notebooks, baseline models, and evaluation utilities for multiple Super AI Hackathon Season 5 challenges. The work is organized around Kaggle-style competitions and includes experiments for tabular data, signal processing, IoT sensor classification, medical prediction, image processing, and Thai image captioning.
 
