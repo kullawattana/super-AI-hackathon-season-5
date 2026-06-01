@@ -1,0 +1,7 @@
+https://github.com/mongodb-developer/GenAI-Showcase/tree/main
+
+Image captioning
+https://www.kaggle.com/code/codingloading/hindi-youtube-video-image-caption-generator
+https://www.kaggle.com/discussions/general/74235
+https://www.kaggle.com/code/besuto/infer-idefic-run-1
+https://www.kaggle.com/competitions/thai-language-image-captioning/code
